@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyelid2003&label=Profile%20views&color=0e75b6&style=flat" alt="eyelid2003" /> </p>
 
-- 🌱 I’m currently learning **MERN Development**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **JAVA, MySQL**
 

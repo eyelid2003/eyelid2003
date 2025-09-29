@@ -1,30 +1,92 @@
-
 <h1 align="center">Hi 👋, I'm Palak Dixit</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="400"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyelid2003&label=Profile%20views&color=0e75b6&style=flat" alt="eyelid2003" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyelid2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**  
+- 💬 Ask me about **JAVA, MySQL**  
+- 📫 How to reach me: **d.eyelid2003@gmail.com**  
 
-- 💬 Ask me about **JAVA, MySQL**
-
-- 📫 How to reach me **d.eyelid2003@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/palak-dixit-3bb91b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-dixit-3bb91b24b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@d.eyelid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="palak dixit" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deyelid2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deyelid2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/d_eyelid2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d_eyelid2003" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/d-eyelid" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.youtube.com/@d.eyelid" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/d_eyelid" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/d_eyelid" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/d_eyelid/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" width="40" height="40" />
+  </a>
+  <a href="https://deyelid2003.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006543.png" width="40" height="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyelid2003&show_icons=true&locale=en&layout=compact" alt="eyelid2003" /></p>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyelid2003&show_icons=true&locale=en" alt="eyelid2003" /></p>
+<strong>Frontend:</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyelid2003&" alt="eyelid2003" /></p>
+<br><br>
+<strong>Backend:</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721299.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721314.png" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" width="40" height="40"/>
+
+<br><br>
+<strong>Database:</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+
+<br><br>
+<strong>Tools:</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Canva_icon_2021.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyelid2003&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyelid2003&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyelid2003&theme=radical" alt="GitHub Streak" />
+</p>

@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Palak Dixit</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=eyelid2003&label=Profile%20views&color=0e75b6&style=flat" alt="eyelid2003" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyelid2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+- 🌱 I’m currently learning **Spring Boot**  
+- 💬 Ask me about **JAVA, MySQL**  
+- 📫 How to reach me **d.eyelid2003@gmail.com**
 
-<p align="center">
-  🌱 I’m currently learning <strong>Spring Boot</strong> <br>
-  💬 Ask me about <strong>JAVA, MySQL</strong> <br>
-  📫 How to reach me: <strong>d.eyelid2003@gmail.com</strong>
-</p>
 
 
 ---

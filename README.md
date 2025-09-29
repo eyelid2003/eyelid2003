@@ -4,12 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 
 <p align="left">
+  Motivated Computer Science student at MITS, Gwalior with a Diploma in CS and hands-on Java full-stack experience. Built projects like Result Summary Software and SewaSath. Active on LeetCode & CodeChef (20+ contests, 2⭐). Passionate about coding, problem-solving, and innovation.
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=eyelid2003&label=Profile%20views&color=0e75b6&style=flat" alt="eyelid2003" />
 </p>
 
 - 🌱 I’m currently learning **Spring Boot**  
 - 💬 Ask me about **JAVA, MySQL**  
 - 📫 How to reach me **d.eyelid2003@gmail.com**
+
 
 
 
